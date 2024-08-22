@@ -1,7 +1,10 @@
 <img src="assets/rainbow-bar.gif" width="100%">
   
-<div align="center">
+<div>
   <img src="assets/peaceful.gif" alt="8-bit Japanese scenery">
+</div>
+<div>
+  <img src="assets/water-scene.gif" alt="8-bit Japanese bridge">
 </div>
 
 <h3>Hey there, I’m Franklin (he/him) 👋</h3>
