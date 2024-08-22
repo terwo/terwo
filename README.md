@@ -21,7 +21,7 @@ In my free time, I enjoy learning languages and engaging in intercultural commun
 
 ## 📌 Pinned
 
-| [Devpost](https://devpost.com/KeveenWong?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/terwo) |
+| [Devpost](https://devpost.com/terwo) |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <img src="rainbow-bar.gif" width="100%">
