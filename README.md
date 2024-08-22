@@ -13,7 +13,7 @@ I am a 5th-year Cognitive Systems student at UBC. I've worked previously at the 
 
 ## 🌃 Interests
 
-I am interested in the intersection of computer science and linguistics, and wish to explore how linguistic theory can be applied to create meaningful language technologies.
+I am interested in the intersection of computer science and linguistics, and wish to explore how linguistic theory can be applied to create meaningful language technologies. I am particularly keen towards formal semantics.
 
 In my free time, I enjoy learning languages and engaging in intercultural communications. I am fluent in Japanese, proficient in Mandarin, and can still read some French.
 
