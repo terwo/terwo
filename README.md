@@ -11,7 +11,7 @@
 
 I am a 5th-year Cognitive Systems student at UBC. I've worked previously at the [UBC Cloud Innovation Centre](https://cic.ubc.ca/), [Sparkle AI](https://www.sparkleai.co.jp/ja/about), and most recently the [Human-AI Interaction Lab @ UBC](https://hai.cs.ubc.ca/). I am part of the Applied AI Subteam of [UBC Agrobot](https://engineering.ubc.ca/engineering-design-teams/agrobot), and have done some freelance Web Dev through the Riipen program. I also completed a 1-year exchange at the University of Tokyo.
 
-In terms of non-technical roles, I have TA'd for programming and Japanese, both beginner (CPSC110, JAPN100) and intermediate (CPSC210, JAPN200), at UBC. During my time in Japan, I was an English Conversation Tutor for children aged 5-12.
+I also like teaching! have TA'd for programming and Japanese, both beginner (CPSC110, JAPN100) and intermediate (CPSC210, JAPN200), at UBC. During my time in Japan, I was an English Conversation Tutor for children aged 5-12.
 
 ## 🌃 Interests
 
