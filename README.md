@@ -7,7 +7,7 @@
 
 <h3>Hey there, I’m Franklin (he/him) 👋</h3>
 
-## 🌱 Experience
+## 🌱 Background
 
 I am a 5th-year Cognitive Systems student at UBC. I've worked previously at the [UBC Cloud Innovation Centre](https://cic.ubc.ca/), [Sparkle AI](https://www.sparkleai.co.jp/ja/about), and most recently the [Human-AI Interaction Lab @ UBC](https://hai.cs.ubc.ca/). I also completed a 1-year exchange at the University of Tokyo.
 
