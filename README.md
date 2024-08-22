@@ -22,7 +22,7 @@ In my free time, I enjoy learning languages and engaging in intercultural commun
 | [Devpost](https://devpost.com/terwo) |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<img src="rainbow-bar.gif" width="100%">
+<img src="assets/rainbow-bar.gif" width="100%">
 
 <!--
 **terwo/terwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
