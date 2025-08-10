@@ -5,7 +5,7 @@
    <img align="center" src="assets/water-scene.gif" width="48%" alt="8-bit Japanese bridge">
 </div>
 
-<h3>Hey there, I’m Franklin (he/him) 👋</h3>
+<h3>Hey there, I’m Franklin👋</h3>
 
 ## 🌱 Background
 
