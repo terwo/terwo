@@ -8,7 +8,6 @@
 <h3>Hey there, I’m Franklin👋</h3>
 
 ## 🌱 Background
-[Human-AI Interaction Lab @ UBC](https://hai.cs.ubc.ca/)
 
 I am a Computer Science and Cognitive Systems (Linguistics) student at UBC. 
 
